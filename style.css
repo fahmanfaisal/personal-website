@@ -1,0 +1,110 @@
+body {
+  margin: 0 auto;
+  padding: 0 auto;
+  font-family: "Secular One", sans-serif;
+}
+.mr {
+  margin-bottom: 30px;
+}
+#margin {
+  margin: 40px 0px;
+}
+.name-highlight {
+  color: brown;
+}
+.half-width {
+  padding-top: 2%;
+  width: 40%;
+  float: left;
+  margin-left: 5%;
+  padding-left: 2%;
+}
+.position {
+  padding-top: 10%;
+}
+.half-width img {
+  width: 100%;
+}
+.top-banner {
+  background-image: url("images/header-bg.png");
+  background-repeat: no-repeat;
+  min-height: 700px;
+  background-size: cover;
+}
+.top-biography {
+  background-image: url("images/biography-bg.png");
+  background-repeat: no-repeat;
+  min-height: 700px;
+  background-size: cover;
+}
+.btn {
+  text-decoration: none;
+  border: none;
+  background-color: #ff438e;
+  color: #ffff;
+  font-weight: bold;
+  padding: 10px 15px;
+  border-radius: 5px;
+}
+.custom-css {
+  text-align: center;
+  font-size: 32px;
+  padding-bottom: 20px;
+}
+.latest-work {
+  background-image: url(images/latest-work-bg.png);
+  min-height: 500px;
+  background-size: cover;
+  padding-top: 165px;
+}
+.custom-width {
+  margin-left: 5%;
+  float: left;
+}
+.custom-width img {
+  background-size: contain;
+  background-repeat: no-repeat;
+  width: 25%;
+  padding: 5px 30px;
+}
+.client-area {
+  background-image: url(images/footer-bg.png);
+  min-height: 500px;
+  background-size: cover;
+  padding-top: 40px;
+}
+.client-area h1 {
+  text-align: center;
+}
+#custom-text {
+  font-size: 18px;
+  text-align: center;
+}
+#extra {
+  font-size: 14px;
+  color: #309e42;
+  text-align: center;
+}
+#peragraph {
+  font-size: 18px;
+  text-align: center;
+  offset: 0px 50px;
+  padding: 20px 400px;
+}
+.email-setion {
+  padding: 20px 200px;
+  text-align: center;
+}
+.contain {
+  margin: 0px 120px;
+  background-color: #ff438e;
+  border-radius: 10px;
+  padding: 20px 0px;
+  color: aliceblue;
+}
+#custom-footer {
+  font-size: 16px;
+  padding-top: 80px;
+  text-align: center;
+  padding: 20px 0px;
+}
